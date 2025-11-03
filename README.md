@@ -1,4 +1,4 @@
-<!-- Profile README for github.com/oskarandreassen -->
+<!-- Profile README for github.com/oskarostlind -->
 <!-- Tips: håll texten uppdaterad 1–2 ggr per kvartal -->
 
 <h1 align="center">Hej, jag är Oskar 👋</h1>
@@ -48,13 +48,13 @@
 
 ### 📊 Lite GitHub-stats (auto-genererat)
 <p>
-  <img alt="Oskars GitHub stats" src="https://github-readme-stats.vercel.app/api?username=oskarandreassen&show_icons=true&hide_border=true" />
+  <img alt="Oskars GitHub stats" src="https://github-readme-stats.vercel.app/api?username=oskarostlind&show_icons=true&hide_border=true" />
 </p>
 <p>
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oskarandreassen&layout=compact&hide_border=true" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oskarostlind&layout=compact&hide_border=true" />
 </p>
 <p>
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=oskarandreassen&hide_border=true" />
+  <img alt="Streak" src="https://streak-stats.demolab.com?user=oskarostlind&hide_border=true" />
 </p>
 
 ---
